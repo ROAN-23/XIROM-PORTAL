@@ -20,7 +20,7 @@ window.XIROM_PORTAL = {
   logo: 'https://roan-23.github.io/XIROM423/logo.png',
 
   // Este sera el enlace fijo de tu futuro QR. Publica primero y pruebalo.
-  urlPublica: 'https://roan-23.github.io/XIROM-Portal/',
+  urlPublica: 'https://roan-23.github.io/XIROM-PORTAL/',
   compartirHabilitado: false, // Cambia a true SOLO cuando la web ya este publicada.
 
   enlaces: {
